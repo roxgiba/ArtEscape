@@ -33,11 +33,9 @@ The initial design with Figma.
 
 ## Notes and Sources
 
-**Artist detailed info**
-[http://www.wikiart.org/en/{seo_name}?json=2]
-[https://emmaamos.com/about/bio/] _just for Emma Amos biography_
+[Artist detailed info](http://www.wikiart.org/en/{seo_name}?json=2)  
+[Emma Amos biography](https://emmaamos.com/about/bio/)
 
-**Paintings by artist**
-[http://www.wikiart.org/en/App/Painting/PaintingsByArtist?artistUrl=fernand-leger&json=2]
+[Paintings by artist](http://www.wikiart.org/en/App/Painting/PaintingsByArtist?artistUrl=fernand-leger&json=2)
 
 _This is a student project that was created at [CodeOp](http://codeop.tech), a full stack development bootcamp in Barcelona._

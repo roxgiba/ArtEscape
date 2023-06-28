@@ -1,6 +1,6 @@
 # ArtEscape
 
-![ArtEscape](./images/Logo_ArtEscape.png)
+![ArtEscape](./images/Logo_ArtEscape.png "ArtEscape Logo")
 
 **_ArtEscape_** is a Full Stack web application built in collaboration with an international team and designed to inspire and educate art enthusiasts of all levels.
 It offers a unique blend of interactive gameplay and immersive art lessons.
@@ -16,11 +16,11 @@ The main technologies used to develop this project were:
 
 The initial design with Figma.
 
-![FigmaDesign](./images/Screenshot%202023-06-22%20at%2014.30.06%20copy.png)
+![FigmaDesign](./images/figma_design.png "Figma Design")
 
 ## Database schema
 
-![DataBase_Schema](./images/DB%20schema.png)
+![DataBase_Schema](./images/DB%20schema.png "DataBase Schema")
 
 ## Setup
 
@@ -30,6 +30,21 @@ The initial design with Figma.
 - `cd client` and run `npm install`. This will install client dependencies (React).
 - Run `npm run migrate` in the project folder of this repository, in a new terminal window. This will create the Database `artescape` and the tables in your local machine.
 - `cd client` and run `npm run dev`. Follow the link provided.
+
+## Pictures of the project
+
+Home Page
+![home](./images/home.png "Home Page")  
+Gallery of paintings
+![gallery](./images/gallery.png "Gallery")
+Lectures of artists
+![Lecture](./images/lectures.png "Lectures")
+Example of the bio of an artist
+![Artist Bio](./images/artist_bio.png "Artist Bio")
+Example of the quiz section
+![Quiz](./images/quiz_example.png "Quiz example")
+Example of the quiz section 2
+![Quiz2](./images/quiz_example2.png "Quiz example2")
 
 ## Notes and Sources
 

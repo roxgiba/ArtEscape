@@ -1,6 +1,6 @@
 # ArtEscape
 
-![ArtEscape](./desktop/presentation-final-project/Logo_ArtEscape.png)
+![ArtEscape](images/Logo_ArtEscape.png)
 
 ##
 

@@ -8,9 +8,9 @@ ArtEscape is a full stack web application built in collaboration with an interna
 
 ArtEscape offers a unique blend of interactive gameplay and immersive art lessons.
 
-**Artist detailed info**\
-[http://www.wikiart.org/en/{seo_name}?json=2]\
-[https://emmaamos.com/about/bio/] _just for Emma Amos biography_\
+**Artist detailed info**
+[http://www.wikiart.org/en/{seo_name}?json=2]
+[https://emmaamos.com/about/bio/] _just for Emma Amos biography_
 
-**Paintings by artist**\
+**Paintings by artist**
 [http://www.wikiart.org/en/App/Painting/PaintingsByArtist?artistUrl=fernand-leger&json=2]
